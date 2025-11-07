@@ -1,5 +1,5 @@
-<img width="570" height="321" alt="image" src="https://github.com/user-attachments/assets/53879a7f-78a8-485c-97fe-4c8648308677" />
-<img width="570" height="302" alt="image" src="https://github.com/user-attachments/assets/93356965-7f68-4129-8c49-3ea6002d6a09" />
+<img width="570" height="321" alt="image" src="https://github.com/user-attachments/assets/f41c4921-abaa-4a66-b782-2c51aacf72d2" />
+<img width="570" height="302" alt="image" src="https://github.com/user-attachments/assets/180ea392-73e1-490e-a7d0-1400cf484195" />
 
 🧰 Advanced Inventory System
 
@@ -44,5 +44,7 @@ Dependencies: qb-target • qb-core • ox_lib • progressbar
 https://youtu.be/IHxwTEDIurI
 
 💸 Buy Here:
- https://baked-scripts.tebex.io/ 
+ https://baked-scripts.tebex.io/
 
+📨 Join Our Discord! 
+https://discord.gg/YBAx9X4j
