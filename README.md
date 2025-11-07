@@ -25,8 +25,6 @@ Dependencies: qb-target • qb-core • ox_lib • progressbar
 
 🎯 Extras: hotbar (1–6), item quality bars, vehicle storage, stashes, shops, evidence, ox_lib integration
 
-📸 Recommended Media
-
 🎬 Preview:
 https://youtu.be/IHxwTEDIurI
 
